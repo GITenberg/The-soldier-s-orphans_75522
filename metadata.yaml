@@ -1,0 +1,33 @@
+_repo: The-soldier-s-orphans_75522
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stephens, Ann S. (Ann Sophia)
+    aliases:
+    - Stephens, Ann Sophia Winterbotham
+    - Slick, Jonathan
+    birthdate: 1810
+    deathdate: 1886
+    gutenberg_agent_id: '3257'
+    url: http://www.gutenberg.org/2009/agents/3257
+    wikipedia: https://en.wikipedia.org/wiki/Ann_S._Stephens
+description: ''
+gutenberg_issued: '2025-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75522'
+language: ne
+pgterms:marc904: https://catalog.hathitrust.org/Record/006131454
+pgterms:marc905: 20210202154705stephens
+pgterms:marc906: '1866'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bT. B. Peterson, $c1866.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The soldier's orphans
+url: http://www.gutenberg.org/ebooks/75522
